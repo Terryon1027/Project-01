@@ -1,7 +1,12 @@
 # Project-01
 
-# Your Name
+# Terryon Taylor
 
-# Your Github username
+# Terryon1027
 
-# List the things you added for points
+# 
+
+Added variables
+
+Added conditionals
+
